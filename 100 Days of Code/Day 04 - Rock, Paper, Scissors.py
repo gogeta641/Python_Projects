@@ -44,10 +44,10 @@ if player == 0:
     elif computer == 1:
         print("You lose!")
     else:
-        print("You won!")
+        print("You win!")
 elif player == 1:
     if computer == 0:
-        print("You won!")
+        print("You win!")
     elif computer == 1:
         print("It's a draw!")
     else:
@@ -56,6 +56,8 @@ elif player == 2:
     if computer == 0:
         print("You lose!")
     elif computer == 1:
-        print("You won!")
+        print("You win!")
     else:
         print("It's a draw!")
+else:
+    print("You chose an invalid number, you lose!")

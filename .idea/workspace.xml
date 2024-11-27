@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04dc7c18-3ed5-46cd-8c8c-cba7ff7d1b16" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/100 Days of Code/Day 04 - Rock, Paper, Scissors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04dc7c18-3ed5-46cd-8c8c-cba7ff7d1b16" name="Changes" comment="Day 4 Project Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732682896388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 4 Project Update">
+      <option name="closed" value="true" />
+      <created>1732686209839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732686209839</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Day 4 Project Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4 Project Update" />
   </component>
 </project>
