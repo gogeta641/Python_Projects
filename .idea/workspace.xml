@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04dc7c18-3ed5-46cd-8c8c-cba7ff7d1b16" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/100 Days of Code/Day 04 - Rock, Paper, Scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
