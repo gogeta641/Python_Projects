@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04dc7c18-3ed5-46cd-8c8c-cba7ff7d1b16" name="Changes" comment="Project Update">
+    <list default="true" id="04dc7c18-3ed5-46cd-8c8c-cba7ff7d1b16" name="Changes" comment="Day 4 Project Update">
+      <change afterPath="$PROJECT_DIR$/100 Days of Code/Day 08 - Cypher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 Days of Code/art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100 Days of Code/Day 07 - Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/100 Days of Code/Day 07 - Hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +50,15 @@
     &quot;assignee&quot;: &quot;gogeta641&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gogeta641/Python_Projects",
-    "accountId": "64d7c49c-efbe-43cd-b2b2-3371b59d0b2f"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gogeta641/Python_Projects&quot;,
+    &quot;accountId&quot;: &quot;6aa107c6-c291-477e-8dc8-1035a8884404&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/100 Days of Code/art.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -68,13 +72,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Day 07 - Hangman.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "C:/Users/karth/PycharmProjects/Python_Projects/100 Days of Code"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karth\PycharmProjects\Python_Projects\100 Days of Code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -131,15 +139,7 @@
       <option name="project" value="LOCAL" />
       <updated>1732686821605</updated>
     </task>
-    <task id="LOCAL-00006" summary="Project Update">
-      <option name="closed" value="true" />
-      <created>1732988510161</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1732988510161</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +157,6 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update" />
     <MESSAGE value="Day 4 Project Update" />
-    <MESSAGE value="Project Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4 Project Update" />
   </component>
 </project>
